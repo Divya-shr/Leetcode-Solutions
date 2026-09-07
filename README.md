@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
