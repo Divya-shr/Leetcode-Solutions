@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0576-out-of-boundary-paths) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 ## Bit Manipulation
@@ -220,4 +223,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
