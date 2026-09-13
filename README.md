@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0790-domino-and-tromino-tiling](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## DP on Trees
