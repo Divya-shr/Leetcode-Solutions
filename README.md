@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [3870-count-commas-in-range](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
