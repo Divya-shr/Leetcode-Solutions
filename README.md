@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -252,11 +253,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
