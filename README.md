@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
+| [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
