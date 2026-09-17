@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
