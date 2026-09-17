@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
