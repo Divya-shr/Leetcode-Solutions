@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0260-single-number-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
