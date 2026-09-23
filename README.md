@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
