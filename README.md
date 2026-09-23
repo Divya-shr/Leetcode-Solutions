@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 ## Linked List
 |  |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
