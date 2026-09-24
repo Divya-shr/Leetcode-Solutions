@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
+| [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1544-make-the-string-great](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
