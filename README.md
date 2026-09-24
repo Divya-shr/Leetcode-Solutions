@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1473-paint-house-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0790-domino-and-tromino-tiling](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
+| [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1473-paint-house-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1473-paint-house-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
