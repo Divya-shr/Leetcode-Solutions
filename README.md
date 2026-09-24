@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0093-restore-ip-addresses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0260-single-number-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0393-utf-8-validation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0290-word-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String Matching
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0459-repeated-substring-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
@@ -574,4 +580,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
