@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Bitmask
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 ## Linked List
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -537,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 ## String Matching
 |  |
 | ------- |
