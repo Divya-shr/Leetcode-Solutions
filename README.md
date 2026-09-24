@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
