@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
