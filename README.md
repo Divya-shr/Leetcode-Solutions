@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 ## Hash Function
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Geometry
 |  |
 | ------- |
