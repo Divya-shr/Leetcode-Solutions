@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
