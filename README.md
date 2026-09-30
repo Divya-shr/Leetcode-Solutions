@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
