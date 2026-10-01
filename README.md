@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
 | [0965-univalued-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0310-minimum-height-trees) |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -857,4 +861,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
