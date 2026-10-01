@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
@@ -889,4 +893,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
