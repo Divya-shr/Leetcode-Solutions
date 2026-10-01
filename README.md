@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0851-loud-and-rich](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0851-loud-and-rich) |
 | [0872-leaf-similar-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0965-univalued-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
