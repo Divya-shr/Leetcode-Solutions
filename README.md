@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -949,4 +950,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
