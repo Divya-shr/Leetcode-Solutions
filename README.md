@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0924-minimize-malware-spread](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0790-domino-and-tromino-tiling](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0931-minimum-falling-path-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
