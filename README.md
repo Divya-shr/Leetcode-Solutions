@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0413-arithmetic-slices](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0413-arithmetic-slices](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
