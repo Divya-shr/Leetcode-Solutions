@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
