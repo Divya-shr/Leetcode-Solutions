@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0997-find-the-town-judge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
+| [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
