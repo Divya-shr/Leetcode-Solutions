@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0393-utf-8-validation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0376-wiggle-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0376-wiggle-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
