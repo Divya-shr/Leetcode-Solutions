@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0851-loud-and-rich) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0691-stickers-to-spell-word](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1494-parallel-courses-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1494-parallel-courses-ii) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0909-snakes-and-ladders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0931-minimum-falling-path-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
