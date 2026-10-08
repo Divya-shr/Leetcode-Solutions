@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0997-find-the-town-judge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
