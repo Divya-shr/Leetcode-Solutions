@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0887-super-egg-drop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
+| [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
