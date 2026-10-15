@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
+| [2349-design-a-number-container-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2349-design-a-number-container-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1845-seat-reservation-manager](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
 | [1882-process-tasks-using-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
+| [2349-design-a-number-container-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2349-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
+| [2349-design-a-number-container-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2349-design-a-number-container-system) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 ## Linked List
@@ -915,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
+| [2349-design-a-number-container-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2349-design-a-number-container-system) |
 ## Divide and Conquer
 |  |
 | ------- |
