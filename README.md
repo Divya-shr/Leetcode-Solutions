@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0851-loud-and-rich) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
+| [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0886-possible-bipartition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [0924-minimize-malware-spread](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0928-minimize-malware-spread-ii) |
