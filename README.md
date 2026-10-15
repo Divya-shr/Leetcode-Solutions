@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1845-seat-reservation-manager](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1845-seat-reservation-manager) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
