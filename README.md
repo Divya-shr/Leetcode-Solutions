@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0393-utf-8-validation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0393-utf-8-validation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
