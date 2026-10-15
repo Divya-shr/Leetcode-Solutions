@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
+| [0326-power-of-three](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
