@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
+| [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0707-design-linked-list) |
@@ -1084,4 +1087,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
