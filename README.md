@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0507-perfect-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
