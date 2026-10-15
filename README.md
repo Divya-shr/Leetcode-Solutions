@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -1041,6 +1043,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 ## Aho–Corasick Algorithm
 |  |
