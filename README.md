@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0342-power-of-four) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -1053,4 +1055,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
