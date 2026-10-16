@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0887-super-egg-drop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
