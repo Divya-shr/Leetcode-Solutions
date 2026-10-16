@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0851-loud-and-rich) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
