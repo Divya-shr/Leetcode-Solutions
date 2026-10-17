@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
 | ------- |
@@ -813,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Linked List
 |  |
 | ------- |
