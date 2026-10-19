@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
