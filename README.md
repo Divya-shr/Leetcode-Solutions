@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1656-design-an-ordered-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1598-crawler-log-folder](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
