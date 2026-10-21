@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
