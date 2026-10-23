@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bitmask
 |  |
 | ------- |
