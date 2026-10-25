@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2349-design-a-number-container-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2349-design-a-number-container-system) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1201,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 ## Enumeration
 |  |
 | ------- |
