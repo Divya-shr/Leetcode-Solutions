@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0119-pascals-triangle-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0137-single-number-ii) |
+| [0179-largest-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0204-count-primes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0376-wiggle-subsequence) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
