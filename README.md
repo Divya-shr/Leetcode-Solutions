@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1200-minimum-absolute-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
