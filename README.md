@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 ## Quickselect
 |  |
 | ------- |
@@ -1203,4 +1206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0398-random-pick-index) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
