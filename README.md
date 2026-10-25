@@ -626,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1813-sentence-similarity-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
