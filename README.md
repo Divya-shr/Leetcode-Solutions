@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0968-binary-tree-cameras](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0968-binary-tree-cameras) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
