@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3686-number-of-stable-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3686-number-of-stable-subsequences) |
 | [3886-sum-of-sortable-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
+| [3686-number-of-stable-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3686-number-of-stable-subsequences) |
 ## DP on Trees
 |  |
 | ------- |
