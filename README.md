@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1598-crawler-log-folder](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1642-furthest-building-you-can-reach](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1642-furthest-building-you-can-reach) |
 | [1656-design-an-ordered-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
