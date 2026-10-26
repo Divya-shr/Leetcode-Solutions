@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1609-even-odd-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -893,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -921,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 ## Stack
 |  |
 | ------- |
