@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2235-add-two-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
