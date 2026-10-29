@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3248-snake-in-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3093-longest-common-suffix-queries) |
+| [3248-snake-in-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -1029,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3248-snake-in-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
