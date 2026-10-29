@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
