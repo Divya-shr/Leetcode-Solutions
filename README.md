@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0398-random-pick-index) |
 | [0415-add-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
 | [0507-perfect-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
