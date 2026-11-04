@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1587-bank-account-summary-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1587-bank-account-summary-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
