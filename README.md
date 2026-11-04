@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1609-even-odd-tree) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1494-parallel-courses-ii) |
 | [1514-path-with-maximum-probability](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Directed Acyclic Graph
 |  |
