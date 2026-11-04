@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0607-sales-person) |
 | [1148-article-views-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1148-article-views-i) |
