@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0274-h-index) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0164-maximum-gap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -919,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -1343,4 +1347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0164-maximum-gap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
