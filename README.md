@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0710-random-pick-with-blacklist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0710-random-pick-with-blacklist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
+| [0713-subarray-product-less-than-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-number-of-matching-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0887-super-egg-drop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
@@ -1157,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
@@ -1170,6 +1173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
+| [0713-subarray-product-less-than-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
