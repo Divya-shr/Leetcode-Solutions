@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1302-deepest-leaves-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0934-shortest-bridge) |
 | [0980-unique-paths-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -807,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0928-minimize-malware-spread-ii) |
 | [1254-number-of-closed-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Shortest Path
@@ -1098,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
