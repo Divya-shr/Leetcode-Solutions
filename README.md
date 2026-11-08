@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0477-total-hamming-distance](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0477-total-hamming-distance) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -898,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -906,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0715-range-module](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0715-range-module) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1119,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0715-range-module](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
@@ -1131,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0324-wiggle-sort-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1211,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1373,4 +1380,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
