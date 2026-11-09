@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
 | [1912-design-movie-rental-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1912-design-movie-rental-system) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2788-split-strings-by-separator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2788-split-strings-by-separator) |
@@ -1231,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1763-longest-nice-substring) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1403,6 +1405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 ## Reservoir Sampling
 |  |
@@ -1440,4 +1443,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
