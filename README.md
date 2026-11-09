@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1221,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
