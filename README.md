@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
@@ -1196,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1214,6 +1216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
