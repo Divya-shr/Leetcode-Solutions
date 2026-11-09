@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1473-paint-house-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1473-paint-house-iii) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1080,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1544-make-the-string-great) |
 | [1598-crawler-log-folder](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1598-crawler-log-folder) |
@@ -1304,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
