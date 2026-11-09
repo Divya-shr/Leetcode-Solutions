@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3320-count-the-number-of-winning-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3320-count-the-number-of-winning-sequences) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -1118,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 ## Simulation
 |  |
 | ------- |
@@ -1367,6 +1370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Primality Test
 |  |
