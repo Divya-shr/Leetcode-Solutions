@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-concatenated-divisibility](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3533-concatenated-divisibility) |
 | [3665-twisted-mirror-path-count](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## DP on Trees
 |  |
 | ------- |
