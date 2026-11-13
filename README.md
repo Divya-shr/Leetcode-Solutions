@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 | [3524-find-x-value-of-array-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0715-range-module) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Longest Increasing Subsequence
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2296-design-a-text-editor](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1242,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
 |  |
@@ -1312,6 +1316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -1414,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 ## Reservoir Sampling
 |  |
@@ -1452,4 +1458,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
