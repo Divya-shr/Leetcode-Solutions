@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3248-snake-in-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3248-snake-in-matrix) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1224,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2949-count-beautiful-substrings-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2949-count-beautiful-substrings-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1249,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2953-count-complete-substrings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2953-count-complete-substrings) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String Matching
