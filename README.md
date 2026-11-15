@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1366-rank-teams-by-votes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
@@ -831,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
