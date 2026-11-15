@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0495-teemo-attacking](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0506-relative-ranks) |
+| [0529-minesweeper](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0341-flatten-nested-list-iterator) |
 | [0399-evaluate-division](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0529-minesweeper](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0529-minesweeper](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0529-minesweeper](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
