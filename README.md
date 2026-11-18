@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0997-find-the-town-judge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1014-best-sightseeing-pair](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [0978-longest-turbulent-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
+| [1014-best-sightseeing-pair](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
