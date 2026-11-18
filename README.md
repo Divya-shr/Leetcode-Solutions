@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
 | [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0661-image-smoother](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0661-image-smoother) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0576-out-of-boundary-paths) |
 | [0629-k-inverse-pairs-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0629-k-inverse-pairs-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0630-course-schedule-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0630-course-schedule-iii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0710-random-pick-with-blacklist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0710-random-pick-with-blacklist) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
@@ -996,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Knapsack Problem
