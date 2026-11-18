@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
