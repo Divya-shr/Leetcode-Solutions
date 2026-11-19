@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
@@ -746,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1021-remove-outermost-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1056,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -1182,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0948-bag-of-tokens) |
 | [0969-pancake-sorting](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0969-pancake-sorting) |
+| [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
