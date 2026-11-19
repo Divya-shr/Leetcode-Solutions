@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1051-height-checker](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1024-video-stitching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1024-video-stitching) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -1372,6 +1376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0975-odd-even-jump) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
@@ -1516,4 +1521,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
