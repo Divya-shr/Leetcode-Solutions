@@ -981,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1084-sales-analysis-iii) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1179-reformat-department-table](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1179-reformat-department-table) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1517-find-users-with-valid-e-mails) |
