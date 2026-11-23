@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0887-super-egg-drop) |
 | [0991-broken-calculator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0991-broken-calculator) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0715-range-module) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1603-design-parking-system) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1472-design-browser-history) |
 | [1656-design-an-ordered-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1656-design-an-ordered-stream) |
 ## Greedy
@@ -1287,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1314-matrix-block-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1314-matrix-block-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
