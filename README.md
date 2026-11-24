@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1200-minimum-absolute-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -779,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1048-longest-string-chain](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -1098,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1096-brace-expansion-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1122-relative-sort-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -1265,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [1090-largest-values-from-labels](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1366-rank-teams-by-votes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
