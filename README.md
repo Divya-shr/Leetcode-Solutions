@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-bricks-falling-when-hit](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0833-find-and-replace-in-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0851-loud-and-rich) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0833-find-and-replace-in-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0937-reorder-data-in-log-files](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0937-reorder-data-in-log-files) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0824-goat-latin) |
+| [0833-find-and-replace-in-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0856-score-of-parentheses](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0880-decoded-string-at-index) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0752-open-the-lock) |
 | [0791-custom-sort-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0791-custom-sort-string) |
 | [0792-number-of-matching-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0833-find-and-replace-in-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0833-find-and-replace-in-string) |
 | [0859-buddy-strings](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [0895-maximum-frequency-stack](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0924-minimize-malware-spread](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0924-minimize-malware-spread) |
