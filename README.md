@@ -623,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1090-largest-values-from-labels) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1328-break-a-palindrome](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1383-maximum-performance-of-a-team](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1383-maximum-performance-of-a-team) |
 | [1405-longest-happy-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1405-longest-happy-string) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1268-search-suggestions-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1328-break-a-palindrome](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1366-rank-teams-by-votes) |
