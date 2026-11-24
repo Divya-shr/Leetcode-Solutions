@@ -759,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0520-detect-capital) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0541-reverse-string-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0541-reverse-string-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
