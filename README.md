@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2788-split-strings-by-separator](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2788-split-strings-by-separator) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -884,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1905-count-sub-islands](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1905-count-sub-islands) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
