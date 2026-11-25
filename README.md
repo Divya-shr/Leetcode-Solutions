@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3508-implement-router](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3508-implement-router) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -1177,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3327-check-if-dfs-strings-are-palindromes) |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -1470,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Minimax
 |  |
 | ------- |
@@ -1605,4 +1610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
