@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0529-minesweeper) |
 | [0617-merge-two-binary-trees](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0676-implement-magic-dictionary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0733-flood-fill](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0641-design-circular-deque](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0641-design-circular-deque) |
+| [0676-implement-magic-dictionary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0705-design-hashset) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0609-find-duplicate-file-in-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -1105,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0609-find-duplicate-file-in-system](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0691-stickers-to-spell-word](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0691-stickers-to-spell-word) |
 | [0697-degree-of-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0697-degree-of-an-array) |
@@ -1341,6 +1345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0676-implement-magic-dictionary](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0677-map-sum-pairs) |
 | [0792-number-of-matching-subsequences](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1023-camelcase-matching](https://github.com/Divya-shr/Leetcode-Solutions/tree/master/1023-camelcase-matching) |
